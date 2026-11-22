@@ -1,0 +1,3 @@
+interface:
+  display_name: "implement-spec 2"
+  short_description: "自动生成精简规格和工单，协调多个智能体并完成代码实现与必要验证"
